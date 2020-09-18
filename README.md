@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I'm Padma - I am a Student. Passionate to learn new languages. 
 <img src="https://builtin.com/sites/default/files/styles/medium/public/2018-08/artificial-intelligence-companies.jpg">
 
